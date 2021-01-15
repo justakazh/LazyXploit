@@ -1,2 +1,2 @@
 # LazyXploit
-this is a mass exploit by following the latest 0day update
+<h1> Coming Soon </h1>
